@@ -1,3 +1,37 @@
+# Database and Flags Repository
+
+Este repositorio contiene bases de datos para MySQL, PostgreSQL, MongoDB y SurrealDB, así como una carpeta con imágenes e íconos libres de derechos de autor que representan las banderas de diferentes países, continentes y regiones. Las traducciones de los nombres de los países están disponibles en varios idiomas, como se muestra a continuación.
+
+## Bases de Datos
+
+### MySQL
+- **Nombre de la base de datos:** `mysql_database`
+- **Usuario:** `usuario_mysql`
+- **Contraseña:** `contrasena_mysql`
+
+### PostgreSQL
+- **Nombre de la base de datos:** `postgresql_database`
+- **Usuario:** `usuario_postgresql`
+- **Contraseña:** `contrasena_postgresql`
+
+### MongoDB
+- **Nombre de la base de datos:** `mongodb_database`
+- **Usuario:** `usuario_mongodb`
+- **Contraseña:** `contrasena_mongodb`
+
+### SurrealDB
+- **Nombre de la base de datos:** `surrealdatabase`
+- **Usuario:** `surreal_usuario`
+- **Contraseña:** `surreal_contrasena`
+
+## Carpeta de Banderas
+
+En la carpeta "flags", encontrarás imágenes e íconos de banderas de países, continentes y regiones. Todas las imágenes son libres de derechos de autor y están disponibles en varios formatos.
+
+## Traducciones de Países
+
+Las traducciones de los nombres de los países están disponibles en los siguientes idiomas:
+
 - `ps`: Pashto. Idioma hablado en Afganistán y Pakistán.
 - `sq`: Albanés. Idioma hablado en Albania y regiones vecinas.
 - `de`: Alemán. Idioma hablado en Alemania y otros países de Europa.
